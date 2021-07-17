@@ -1,0 +1,1 @@
+The skin templates need to be named common_paint and the format is .dds
